@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Intr0</string>
+    <string name="agree_to_terms_and_conditions" translatable="false">Agree to terms and conditions</string>
+    <string name="check_our_products" translatable="false">Check our products</string>
+    <string name="enter_password" translatable="false">Enter password</string>
+    <string name="enter_age" translatable="false">Enter age</string>
+    <string name="enter_distance" translatable="false">Enter distance</string>
+    <string name="enter_email" translatable="false">Enter email</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="enter_first_number">Enter first number</string>
+</resources>

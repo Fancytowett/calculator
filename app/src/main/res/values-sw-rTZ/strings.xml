@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intr0</string>
+    <string name="result">Jibu</string>
+    <string name="enter_second_number">Ingiza nambari ya kwanza</string>
+    <string name="enter_first_number">Ingiza nambari ya pili</string>
+    <string name="calculate">Piga hesabu</string>
+</resources>
